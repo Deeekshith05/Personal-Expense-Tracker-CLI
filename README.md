@@ -27,11 +27,11 @@ Technologies Used :
 Project Structure :
 
 
-expense.py
-tracker.py
-main.py
-expenses.csv
-README.md
+expense.py ,
+ tracker.py ,
+ main.py ,
+ expenses.csv ,
+ README.md ,
 
 Sample Menu :
 
@@ -46,5 +46,5 @@ Sample Menu :
 
 -- Author --
 
-- Deekshith R 
+-- Deekshith R --
 Lovely Professional University
