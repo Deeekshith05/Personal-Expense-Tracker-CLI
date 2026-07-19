@@ -1,0 +1,6 @@
+expense_id,title,amount,category,date
+101,Pizza,250.0,Food,18-07-2026
+102,Movie,350.0,Entertainment,19-07-2026
+103,Bus Ticket,40.0,Transport,20-07-2026
+104,Coffee,80.0,Food,19-07-2026
+106,Biryani,250.0,Food,19-07-2026
