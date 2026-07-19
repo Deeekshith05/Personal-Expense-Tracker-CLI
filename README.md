@@ -47,4 +47,3 @@ Sample Menu :
 -- Author --
 
 -- Deekshith R --
-Lovely Professional University
