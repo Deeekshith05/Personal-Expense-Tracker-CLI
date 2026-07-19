@@ -4,3 +4,7 @@ expense_id,title,amount,category,date
 103,Bus Ticket,40.0,Transport,20-07-2026
 104,Coffee,80.0,Food,19-07-2026
 106,Biryani,250.0,Food,19-07-2026
+107,Shopping,2000.0,Footwear,09-12-2025
+108,Flight,8500.0,Travel,06-06-2026
+109,Cab,600.0,Travel,07-06-2026
+110,Fuel,2500.0,Travel,08-06-2026

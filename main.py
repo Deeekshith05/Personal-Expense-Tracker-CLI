@@ -25,7 +25,7 @@ while True:
 
         expense_id = tracker.generate_expense_id()
 
-        # ---------- Title ----------
+        
         while True:
             title = input("Enter Expense Title: ").strip().title()
 
@@ -34,7 +34,7 @@ while True:
             else:
                 break
 
-        # ---------- Amount ----------
+        
         while True:
 
             try:
@@ -49,7 +49,7 @@ while True:
             except ValueError:
                 print("Invalid amount. Please enter a valid number.\n")
 
-        # ---------- Category ----------
+        
         while True:
 
             category = input("Enter Expense Category: ").strip().title()
@@ -59,7 +59,7 @@ while True:
             else:
                 break
 
-        # ---------- Date ----------
+        
         while True:
 
             date = input(
